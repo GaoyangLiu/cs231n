@@ -105,4 +105,4 @@ venv.bak/
 
 # GY
 *.pth
-testFolder/*
+testFolder/subFolder
